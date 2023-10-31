@@ -1,0 +1,13 @@
+div {
+    display: inline-block;
+    background-color: lightgray;
+    border: solid 1px;
+    border-radius: 10px;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+
+div:hover {
+    background-color: yellow;
+}
