@@ -1,0 +1,103 @@
+a: links ou ancoras
+
+abbr: abreviar as palavras
+
+address: adiciona enderos
+
+article: onde vai o conteudo de uma seção. um texto
+
+aside: adicionar conteudo adicional a pagina
+
+audio: carrega um audio
+
+b: negrito
+
+bdo: texto invertido
+
+blockquote: um bloco de citação
+
+body: o corpo do codigo
+
+br: quebra de linha
+
+cite: citar algo
+
+code: area de codigo ao site
+
+dd: descrição do termo da lista
+
+dell: risca a palavra
+
+div: uma divisoria
+
+dl: lista de definição
+
+dt: termo de descrição da lista
+
+em: da enfase a palavra
+
+footer: o rodapé do site
+
+h1 a h6: cabeçalhos
+
+head: a cabeça do codigo
+
+header: a cabeça do site
+
+hr: linha horizontal
+
+html: tag raiz do codigo
+
+i: italico
+
+img: imagem
+
+ins: insere o texto
+
+li: intem de listas
+
+link: importa algum arquivo
+
+main: o corpo do site, onde vai o conteudo principal
+
+mark: "marca-texto"
+
+meta: os metadados do site
+
+nav: painel de navegação
+
+ol: lista ordenada
+
+p: paragrafo
+
+picture: guarda varios arquivos de diferentes tamanhos para diversos tamanhos de telas
+
+pre: "quebra" as regras do html, e visualiza TUDO que for escrito dentro dela
+
+q: citação
+
+section: uma div semantica
+
+small: deixa a palavra pequena
+
+source: carrega um arquivo
+
+span: uma div inline
+
+strong: da força a palavra
+
+style: area do CSS ao codigo
+
+sub: subescreve o tesxto
+
+sup: sobscreve o texto
+
+title: titulo do site
+
+u: sublinha o texto
+
+ul: lista nao ordenada
+
+video: adiciona videos ao site
+
+Total: 107
