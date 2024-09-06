@@ -2,9 +2,9 @@ a: links ou ancoras
 
 abbr: abreviar as palavras
 
-address: adiciona enderos
+address: adiciona aderesssos
 
-article: onde vai o conteudo de uma seção. um texto
+article: uma especie de "morfema livre" das main tags
 
 aside: adicionar conteudo adicional a pagina
 
@@ -42,7 +42,7 @@ h1 a h6: cabeçalhos
 
 head: a cabeça do codigo
 
-header: a cabeça do site
+header: cabeçalho
 
 hr: linha horizontal
 
