@@ -45,6 +45,10 @@ header p a {
     font-weight: 600;
     color: white;
 }
+
+header p a:hover {
+    text-decoration: underline;
+}
 /*Cabeçalho*/
 
 /*Conteudo Principal*/
