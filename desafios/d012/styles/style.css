@@ -111,3 +111,15 @@ footer a:hover {
     text-decoration: underline;
 }
 /*Rodapé*/
+
+/*Media Query*/
+@media (max-width: 825px) {
+    header {
+        height: 262px;
+    }
+
+    header h1 {
+        font-size: 4em;
+    }
+}
+/*Media Query*/
