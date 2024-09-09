@@ -46,3 +46,41 @@ header p a {
     color: white;
 }
 /*Cabeçalho*/
+
+/*Conteudo Principal*/
+main {
+    padding: 50px 0;
+}
+
+main section {
+    padding: 80px 30px;
+    margin-bottom: 50px;
+}
+
+main section p {
+    font-family: 'Sriricha';
+    font-size: 4vw;
+}
+
+main section.two {
+    background-image: url('../imagens/background001.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+main section div.text {
+    width: 46vw;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+main .tree p, .five p{
+    margin-bottom: 80px;
+}
+
+main section.four {
+    background-image: url('../imagens/background002.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+/*Conteudo Principal*/
