@@ -92,7 +92,13 @@ sub: subescreve o tesxto
 
 sup: sobscreve o texto
 
+table: tabela
+
+td: dado da tabela
+
 title: titulo do site
+
+tr: linha da tabela
 
 u: sublinha o texto
 
