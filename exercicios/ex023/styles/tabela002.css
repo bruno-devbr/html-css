@@ -9,13 +9,21 @@ table {
     border-collapse: collapse;
 }
 
+caption {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+    background-color: darkgray;
+    text-align: start;
+}
+
 thead, tfoot {
     background-color: gray;
     color: white;
 }
 
 td {
-    text-align: right;
+    text-align: left;
 }
 
 td, th {

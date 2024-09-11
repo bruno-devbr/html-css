@@ -20,6 +20,8 @@ body: o corpo do codigo
 
 br: quebra de linha
 
+caption: legenda da tabela
+
 cite: citar algo
 
 code: area de codigo ao site
