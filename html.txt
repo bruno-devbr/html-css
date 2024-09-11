@@ -94,7 +94,13 @@ sup: sobscreve o texto
 
 table: tabela
 
+tbody: corpo da tabela
+
 td: dado da tabela
+
+tfoot: o rodapé da tabela
+
+thead: cabeça da tabela
 
 title: titulo do site
 
