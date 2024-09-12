@@ -52,6 +52,8 @@ html: tag raiz do codigo
 
 i: italico
 
+iframe: adiciona uma nova "aba"(guia do navegador) no site
+
 img: imagem
 
 ins: insere o texto
