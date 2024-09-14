@@ -40,6 +40,8 @@ em: da enfase a palavra
 
 footer: o rodapé do site
 
+form: inicia um formulario
+
 h1 a h6: cabeçalhos
 
 head: a cabeça do codigo
@@ -55,6 +57,8 @@ i: italico
 iframe: adiciona uma nova "aba"(guia do navegador) no site
 
 img: imagem
+
+input: campo de dados em formularios
 
 ins: insere o texto
 
