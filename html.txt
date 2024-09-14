@@ -38,6 +38,8 @@ dt: termo de descrição da lista
 
 em: da enfase a palavra
 
+fieldset: uma "borda" para campos de formularios
+
 footer: o rodapé do site
 
 form: inicia um formulario
@@ -61,6 +63,8 @@ img: imagem
 input: campo de dados em formularios
 
 ins: insere o texto
+
+legend: uma legenda para adicionar ao fildset no formulario
 
 li: intem de listas
 
