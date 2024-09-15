@@ -88,6 +88,8 @@ option: um item da lista select
 
 optgroup: grupo de itens da lista select
 
+output: exibe resultado de contas com JS
+
 p: paragrafo
 
 picture: guarda varios arquivos de diferentes tamanhos para diversos tamanhos de telas
@@ -95,6 +97,8 @@ picture: guarda varios arquivos de diferentes tamanhos para diversos tamanhos de
 pre: "quebra" as regras do html, e visualiza TUDO que for escrito dentro dela
 
 q: citação
+
+script: area de js dentro do html
 
 section: uma div semantica
 
