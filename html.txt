@@ -26,6 +26,8 @@ cite: citar algo
 
 code: area de codigo ao site
 
+datalist: opções pre-definidas do input
+
 dd: descrição do termo da lista
 
 dell: risca a palavra
@@ -64,6 +66,8 @@ input: campo de dados em formularios
 
 ins: insere o texto
 
+label: vincula titulos aos inputs?
+
 legend: uma legenda para adicionar ao fildset no formulario
 
 li: intem de listas
@@ -80,6 +84,10 @@ nav: painel de navegação
 
 ol: lista ordenada
 
+option: um item da lista select
+
+optgroup: grupo de itens da lista select
+
 p: paragrafo
 
 picture: guarda varios arquivos de diferentes tamanhos para diversos tamanhos de telas
@@ -89,6 +97,8 @@ pre: "quebra" as regras do html, e visualiza TUDO que for escrito dentro dela
 q: citação
 
 section: uma div semantica
+
+select: uma lista com opçoes de escolha
 
 small: deixa a palavra pequena
 
@@ -109,6 +119,8 @@ table: tabela
 tbody: corpo da tabela
 
 td: dado da tabela
+
+textarea: area de texto
 
 tfoot: o rodapé da tabela
 
